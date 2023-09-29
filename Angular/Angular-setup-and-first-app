@@ -1,0 +1,8 @@
+# Angular setup and first app
+
+Install latest node.js
+Use command line and input npm install -g @angular/cli@latest
+Navigate to the directory where you want to install the app..use cd\...\
+In the app directory use  ng new my-first-app --no-strict
+Choose standard css
+Use ng serve to bring up the dev server
